@@ -8,7 +8,7 @@
 * @updateUrl https://github.com/rose-pine/discord/blob/rose-pine-moon.theme.css
 */
 
-@import url("https://benji-en.github.io/rose-pine/rose-pine-main.css");
+@import url("https://raw.githubusercontent.com/FiercestT/discord/refs/heads/main/rose-pine-main.css");
 
 :root {
     --base: #232136;
@@ -42,4 +42,7 @@
     --dawn-highlightLow: #f4ede8;
     --dawn-highlightMed: #dfdad9;
     --dawn-highlightHigh: #cecacd;
+
+    /* Configurable Accent Color */
+    --accent: var(--pine);
 }

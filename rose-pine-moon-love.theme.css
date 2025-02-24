@@ -1,0 +1,5 @@
+@import url("https://raw.githubusercontent.com/FiercestT/discord/refs/heads/main/rose-pine-moon.theme.css");
+
+:root {
+    --accent: var(--love);
+}

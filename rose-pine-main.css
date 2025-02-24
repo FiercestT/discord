@@ -65,24 +65,24 @@
 
     /* all variables using --rose would go here, but there are none */
 
-    --text-link: var(--pine);
-    --ping: var(--pine);
-    --background-accent: var(--pine);
-    --button-filled-brand-background: var(--pine);
-    --button-filled-brand-background-hover: color-mix(in srgb, var(--pine) 60%, transparent);
-    --control-brand-foreground-new: var(--pine);
-    --brand-500: var(--pine);
-    --brand-400: var(--pine);
-    --control-brand-foreground: var(--pine);
-    --text-brand: var(--pine);
-    --info-warning-background: color-mix(in srgb, var(--pine) 10%, transparent);
-    --polls-voted-fill: color-mix(in srgb, var(--pine) 25%, transparent);
-    --brand-15a: color-mix(in srgb, var(--pine) 25%, transparent);
-    --button-filled-brand-background-active: color-mix(in srgb, var(--pine) 30%, transparent);
-    --mention-background: color-mix(in srgb, var(--pine) 25%, transparent);
-    --mention-foreground: hsl(from var(--pine) h s calc(l*1.5));
-    --brand-05a: color-mix(in srgb, var(--pine) 15%, transparent);
-    --brand-10a: color-mix(in srgb, var(--pine) 20%, transparent);
+    --text-link: var(--accent);
+    --ping: var(--accent);
+    --background-accent: var(--accent);
+    --button-filled-brand-background: var(--accent);
+    --button-filled-brand-background-hover: color-mix(in srgb, var(--accent) 60%, transparent);
+    --control-brand-foreground-new: var(--accent);
+    --brand-500: var(--accent);
+    --brand-400: var(--accent);
+    --control-brand-foreground: var(--accent);
+    --text-brand: var(--accent);
+    --info-warning-background: color-mix(in srgb, var(--accent) 10%, transparent);
+    --polls-voted-fill: color-mix(in srgb, var(--accent) 25%, transparent);
+    --brand-15a: color-mix(in srgb, var(--accent) 25%, transparent);
+    --button-filled-brand-background-active: color-mix(in srgb, var(--accent) 30%, transparent);
+    --mention-background: color-mix(in srgb, var(--accent) 25%, transparent);
+    --mention-foreground: hsl(from var(--accent) h s calc(l*1.5));
+    --brand-05a: color-mix(in srgb, var(--accent) 15%, transparent);
+    --brand-10a: color-mix(in srgb, var(--accent) 20%, transparent);
 
     --header-spotify: var(--foam);
 
